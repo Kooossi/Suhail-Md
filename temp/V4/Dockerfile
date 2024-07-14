@@ -5,10 +5,10 @@
 #     𝗠𝗨𝗟𝗧𝗜𝗗𝗘𝗩𝗜𝗖𝗘 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗨𝗦𝗘𝗥 𝗕𝗢𝗧        #
 #=============================================#
 # 
-#    * @project_name : Suhail-Md
-#    * @author : @SuhailTechInfo
-#    * @youtube : https://www.youtube.com/SuhailTechInfo
-#    * @description : Suhail-Md ,A Multi-functional whatsapp bot md.
+#    * @project_name : Trills-Md
+#    * @author : @TrillsTech
+#    * @youtube : https://www.youtube.com/nochanneltet
+#    * @description : Trills-Md ,A Multi-functional whatsapp bot md.
 #    * @version 1.3.8
 
 
@@ -1272,7 +1272,8 @@ CMD ["npm","start" ]
 # heroku.yml file data to run Container
 # build:
 #   docker:
-#       web: Suhail_Md
+#       web: Trills_Md
 # run:
 #   web: npm start
+
  
